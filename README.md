@@ -1,10 +1,10 @@
-RR_2019_Allostasis_HPA.m is the model file describing the equations for the HPA Axis model used to simulate results published in Rao et al. Allostatic adaptation and personalized physiological trade-offs in the circadian regulation of the HPA axis: A mathematical modeling approach Scientific Reports (accepted July 2019)
+RR_2019_Allostasis_HPA.m is the model file describing the equations for the HPA Axis model used to simulate results published in Rao et al. Allostatic adaptation and personalized physiological trade-offs in the circadian regulation of the HPA axis: A mathematical modeling approach. Scientific Reports (accepted July 2019)
 
 RR_2019_Allostasis_Minimal_Results.m simulates a minimal set of results used in the manuscript:
 	
-	entrained corticosterone profiles for a randomly chosen point on the nominal parametric surface
+	entrained corticosterone profiles for a randomly chosen point from the nominal parametric subspace
 	
-	the nominal, intermediate stress, and high stress parametric surfaces with the 	9 representative points chosen from each of the 	respective surfaces overlaid
+	the nominal, intermediate stress, and high stress parametric subspaces with the 9 representative points chosen from each of the 	respective subspaces overlaid
 
 RR_Allostasis_minimal_workspace.mat consists of a minimal set of variables used to generate the results
 	[variable name] -> [description]
